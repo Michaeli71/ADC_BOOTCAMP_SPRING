@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-intro-multi-module</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>ex01-project-template</module>
+        <module>ex02-project-template </module>
+        <module>ex02ab-greeting-app </module>
+        <module>ex02c-greeting-app </module>
+        <module>ex02d-greeting-app </module>
+        <module>ex03-asmiq-academy-app-template</module>
+        <module>ex03-i-asmiq-academy-app </module>
+        <module>ex03-ii-asmiq-academy-app</module>        
+		<module>ex04-asmiq-academy-app</module>	
+        <module>ex04-asmiq-academy-app-template</module> 
+        <module>ex05a-asmiq-academy-app</module> 
+        <module>ex05a-asmiq-academy-app-template</module> 
+        <module>ex05b-asmiq-academy-app</module> 
+        <module>ex06-asmiq-academy-app</module> 
+        <module>ex06-asmiq-academy-app-template</module> 
+        <module>ex07-asmiq-academy-app</module> 
+        <module>ex07-asmiq-academy-app-template</module> 
+        <module>ex07-asmiq-academy-app</module> 
+        <module>ex08-design-improvement</module> 
+        <module>ex09-asmiq-academy-app</module>
+		<module>ex09-asmiq-academy-app-template</module>	
+        <module>ex10-asmiq-academy-app</module>
+        <module>ex11-bean-lifecycle</module>
+        <module>ex11-bean-lifecycle-template</module>
+        <module>ex13-web-project</module>
+        <module>ex13-web-project-template</module>
+        <module>ex14-asmiq-academy-app</module>
+        <module>ex14-asmiq-academy-app-template</module>
+ 		<module>ex15-thymeleaf-app</module>
+        <module>ex15-thymeleaf-app-template</module>
+
+		<module>spring-intro-bean-lifecycles</module>	
+        <module>spring-intro-bean-qualifiers</module>
+        <module>spring-intro-bean-scopes</module>
+		<module>spring-intro-complex-request-params</module>	
+		<module>spring-intro-dependency-resolution</module>	
+        <module>spring-intro-multi-configurations</module>
+    </modules>
+									
+</project>
