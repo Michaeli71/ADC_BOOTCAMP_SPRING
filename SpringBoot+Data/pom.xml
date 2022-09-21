@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-data-multi-module</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>ex16-my-first-spring-boot-app</module>
+        <module>ex17-asmiq-academy-boot-app</module>
+        <module>ex17-asmiq-academy-boot-app-template</module>
+        <module>ex18-spring-boot-web-with-ui</module>
+        <module>ex18-spring-boot-web-with-ui-template</module>
+        <module>ex19a_c-spring-boot-person-app</module>
+        <module>ex19d-spring-boot-person-app</module>
+        <module>ex19-spring-boot-person-app-template</module>        
+		<module>ex20-spring-boot-person-app</module>	
+        <module>ex20-spring-boot-person-app-template</module>
+		<module>ex21-spring-boot-person-datajap-app	</module>	
+        <module>ex21-spring-boot-person-datajpa-app-template</module>
+        <module>ex23-spring-boot-person-mongo-app</module>
+        <module>ex23-spring-boot-person-mongo-app-template</module>
+        <module>ex25-spring-boot-person-mongo-app</module>
+        <module>ex25-spring-boot-person-mongo-app-template</module>
+        <module>ex26-spring-validation-app</module>
+        <module>ex26-spring-validation-app-template</module>
+ 		<module>ex27-spring-mapstruct-app</module>
+        <module>ex27-spring-mapstruct-app-template</module>
+
+		<module>spring-boot-content-filtering-web-example</module>	
+        <module>spring-boot-logging-and-port-example</module>
+        <module>spring-data-mongodb-examples</module>
+		<module>spring-data-slides-examples</module>	
+		<module>spring-data-slides-mongo-examples</module>	
+        <module>spring-jdbc-intro</module>	
+		<module>spring-jdbc-with-spring-boot-1</module>	
+		<module>spring-jdbc-with-spring-boot-2-web</module>	
+		<module>spring-mapstruct-slides-examples</module>	
+        <module>spring-plain-validation-slides-examples</module>
+        <module>spring-validation-slides-examples</module>
+    </modules>
+									
+</project>
