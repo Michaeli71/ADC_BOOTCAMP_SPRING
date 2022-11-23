@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-boot-rest-architecture-workspace</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>ex02-rest-product-client-app</module>
+        <module>ex02-rest-product-client-app-template</module>
+        <module>ex03-rest-highscore-app</module>
+        <module>ex03-rest-highscore-app-template</module>
+        <module>ex04-spring-rest-user-app</module>
+        <module>ex04-spring-rest-user-app-template</module>
+
+		<module>BookInfoClientApp</module>	
+        <module>BookInfoClientAppWithErrorHandler</module> 
+        <module>BookManagementApp</module>       
+        <module>BookManagementAppWithContentType</module>       
+        <module>BookManagementAppWithSecurity1</module>       
+        <module>BookManagementAppWithSecurity2</module>       
+        <module>BookManagementAppWithSecurity3</module>       
+        <module>ex01-gs-rest-service-complete</module>
+        <module>ex01-gs-rest-service-initial</module>
+    
+        <module>spring-aop-slides-examples</module>           
+        <module>spring-boot-utils-app</module>           
+        <module>spring-profiles-slides-examples</module>           
+        <module>spring-rest-product-controller</module>           
+        <module>spring-rest-product-controller-with-validation</module>           
+        <module>spring-rest-product-error-controller</module>           
+        <module>spring-shutdown-example</module>           
+    </modules>
+                					
+</project>
