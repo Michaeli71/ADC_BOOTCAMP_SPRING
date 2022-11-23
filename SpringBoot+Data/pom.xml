@@ -19,7 +19,7 @@
         <module>ex19-spring-boot-person-app-template</module>        
 		<module>ex20-spring-boot-person-app</module>	
         <module>ex20-spring-boot-person-app-template</module>
-		<module>ex21-spring-boot-person-datajap-app	</module>	
+		<module>ex21-spring-boot-person-datajpa-app</module>
         <module>ex21-spring-boot-person-datajpa-app-template</module>
         <module>ex23-spring-boot-person-mongo-app</module>
         <module>ex23-spring-boot-person-mongo-app-template</module>
